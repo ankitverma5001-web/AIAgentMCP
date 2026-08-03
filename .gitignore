@@ -1,3 +1,14 @@
 node_modules/
+<<<<<<< HEAD
 test-results/
 playwright-report/
+=======
+playwright-report/
+playwright-report/**
+allure-report/
+allure-results/
+**/test-results
+**/trace
+scripts/
+.env
+>>>>>>> f71bb16 (Add Playwright login/add-to-cart test with Allure reporting)
